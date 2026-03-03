@@ -1,35 +1,37 @@
-# 👋 你好，我是 xuwangweifan (xuwwfan)
+# 💫 Hi, I'm babapei 
 
-一个热衷于**深度学习**、**嵌入式开发**与**工业机器人**的研究者与开发者。
-
----
-
-### 🚀 正在进行的探索
-* 🌌 **天文大数据分析**：利用深度学习（CNN, VAE, GAN）对 **LAMOST** 望远镜的 E+A (Post-Starburst) 后星暴星系进行分类与光谱分析。
-* 🤖 **工业机器人仿真**：开发 **六轴协作机器人** 的上位机通信协议，并构建 3D 机器人仿真环境（类似 RobotStudio/CypWeld）。
-* 🛠️ **全栈与嵌入式**：从 **STM32** 硬件底层驱动到基于 **Spring Boot + Vue.js** 的全栈管理系统开发。
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=babapei&label=Views&color=0e75b6&style=flat" alt="babapei" />
+</p>
 
 ---
 
-### 🛠️ 技术栈
-| 类别 | 技术关键词 |
-| :--- | :--- |
-| **人工智能** | PyTorch, NumPy, Pandas, 计算机视觉, 异常检测 |
-| **控制与嵌入式** | STM32, C/C++, Keil MDK, CNC 系统, 工业通讯协议 |
-| **后端/前端** | Java (Spring Boot), MySQL, Vue.js, Python |
-| **开发工具** | Git, WSL, Docker, GitHub/Gitee |
+### 🛠 Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ---
 
-### 📈 GitHub 统计
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=xuwangweifan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuwangweifan&layout=compact&theme=radical)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=babapei&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babapei&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babapei&theme=transparent&hide_border=true" />
+</p>
 
 ---
 
-### 📫 联系我
-* **GitHub**: [xuwangweifan](https://github.com/xuwangweifan)
-* **项目发布**: 查看我的 [Releases](https://github.com/xuwangweifan?tab=repositories) 获取最新的工具打包版本。
-
----
-> "Stay hungry, stay foolish."
+<p align="center">
+  <i>"Keep coding, keep exploring."</i>
+</p>
