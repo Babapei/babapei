@@ -33,5 +33,5 @@
 ---
 
 <p align="center">
-  <i>"Keep coding, keep exploring."</i>
+  <b><i>"kskbl---zdjd---wk---zkbl"</i></b>
 </p>
