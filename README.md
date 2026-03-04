@@ -1,7 +1,7 @@
 # <p align="center">💫 Hi, I'm babapei 💫</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=🌌+Classifying+E%2BA+Galaxies...;🤖+Simulating+Robotic+Arms...;⚽+SIUUUUUUU!;🛌+Diving+through+bugs+for+life..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Coding+the+Future...;Building+Robotics+Simulators;Exploring+E%2BA+Galaxies;Pushing+to+GitHub+via+7890..." alt="Typing SVG" />
 </p>
 
 ---
