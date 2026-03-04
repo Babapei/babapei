@@ -1,5 +1,8 @@
 # <p align="center">💫 Hi, I'm babapei 💫</p>
-[![Readme Quotes](https://github-readme-quotes.vercel.app/api?theme=tokyonight&cache_seconds=1800)](https://github.com/babapei)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.app?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=🌌+Classifying+E%2BA+Galaxies...;🤖+Simulating+Robotic+Arms...;⚽+SIUUUUUUU!;🛌+Diving+through+bugs+for+life..." alt="Typing SVG" />
+</p>
 
 ---
 <p align="center">
