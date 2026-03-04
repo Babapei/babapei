@@ -1,4 +1,5 @@
 # <p align="center">💫 Hi, I'm babapei 💫</p>
+[![Readme Quotes](https://github-readme-quotes.vercel.app/api?theme=tokyonight&cache_seconds=1800)](https://github.com/babapei)
 
 ---
 <p align="center">
