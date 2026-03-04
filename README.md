@@ -1,7 +1,15 @@
-# 💫 Hi, I'm babapei 
+# <p align="center">💫 Hi, I'm babapei 💫</p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=babapei&label=Views&color=0e75b6&style=flat" alt="babapei" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Coding+the+Future...;Building+Robotics+Simulators;Exploring+E%2BA+Galaxies;Pushing+to+GitHub+via+7890..." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=babapei&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/babapei/babapei/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
