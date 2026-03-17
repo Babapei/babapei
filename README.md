@@ -1,8 +1,4 @@
-# <p align="center">💫 Hi, I'm babapei 💫</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Coding+the+Future...;Building+Robotics+Simulators;Exploring+E%2BA+Galaxies;Pushing+to+GitHub+via+7890..." alt="Typing SVG" />
-</p>
+# <p align="center">Hi, I'm babapei 💁🏽</p>
 
 ---
 <p align="center">
@@ -37,10 +33,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=babapei&theme=transparent&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <b><i>小猪包👸</i></b>
 </p>
