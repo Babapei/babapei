@@ -1,15 +1,10 @@
 # <p align="center">Hi, I'm babapei 💁🏽</p>
 
----
 <p align="center">
   <img src="./images/cr7_dive.gif" width="300" />
   <br>
   <b>"Status: Diving through bugs, lying flat for reality.🌊🛌"</b>
 </p>
-
-> **"Code Status: Diver detected. 🟨"**
-
----
 
 ### 🛠 Languages & Tools
 
@@ -21,6 +16,8 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
+> **"Diver detected. 🟨"**
 
 ---
 
