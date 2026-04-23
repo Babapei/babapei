@@ -6,6 +6,14 @@
   <b>"Status: Diving through bugs, lying flat for reality.🌊🛌"</b>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/babapei/babapei/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/babapei/babapei/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/babapei/babapei/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 ### 🛠 Languages & Tools
 
 <p align="left">
