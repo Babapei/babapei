@@ -1,36 +1,36 @@
 name: Generate Snake Animation
 
 on:
-  # 每天半夜自动运行一次，更新贪吃蛇的数据
   schedule:
     - cron: "0 0 * * *" 
-  # 允许你随时在 Actions 面板手动点击运行
   workflow_dispatch:
-  # 每次你修改 README.md 提交时也会触发更新
   push:
     branches:
     - main
+
+# 👇 这里是解决 128 错误的关键：明确赋予 Action 写入（写代码/推分支）的权限
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      # 👇 顺手把警告里的 v3 升级到 v4，解决 Node.js 版本警告
+      - uses: actions/checkout@v4
       
-      # 核心组件：生成贪吃蛇 SVG
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # 输出两个版本：亮色版和暗色版（适配 GitHub 的深浅色主题）
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # 把生成的图片推送到一个叫 output 的独立分支里，保持主分支干净
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        # 👇 同样顺手升级到 v4
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
