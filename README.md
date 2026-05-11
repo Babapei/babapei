@@ -1,9 +1,9 @@
-# <p align="center">Hi, I'm babapei 💁🏽</p>
+# <p align="center">babapei 💁🏽</p>
 
 <p align="center">
   <img src="./images/cr7_dive.gif" width="300" />
   <br>
-  <b>Diving through bugs, lying flat for reality.🌊🛌</b>
+  <b>Divingthroughbugslyingflatforreality</b>
 </p>
 
 <p align="center">
