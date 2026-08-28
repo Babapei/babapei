@@ -1,4 +1,7 @@
-ニヒリスト
+ニヒリスト/宿命論者
+
+⠊⠎⠎⠓⠕⠀⠝⠊⠓⠕⠝⠛⠕⠀⠺⠕⠀⠽⠁⠗⠥
+
 <details>
   <summary style="font-size: 14px;">ステータス確認...</summary>
   <br/>
